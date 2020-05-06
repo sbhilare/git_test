@@ -7,6 +7,6 @@
  */
 
 
-echo 'git test';
+echo 'git test...';
 
 ?>
